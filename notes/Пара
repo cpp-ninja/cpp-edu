@@ -1,0 +1,10 @@
+Создание
+
+#include <utility>
+
+pair<int, string> p(7, "C++);
+
+auto p = make_pair(7, "C++");
+
+Обращение к полям
+cout << p.first << " "<<p.second;

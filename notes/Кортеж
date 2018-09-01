@@ -1,0 +1,14 @@
+ Создание
+
+#include <tuple>
+
+ tuple <const int &, const string &, const int& > t = tie(&a, &str, &b);
+
+ auto t = make_tuple(7, "C++", true);
+
+c++17 : 
+tuple t(7, "C++", true);
+
+
+ получение элемента:
+     get<1>(t)
