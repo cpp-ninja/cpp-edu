@@ -1,0 +1,1 @@
+SmartPointer from https://www.youtube.com/watch?v=ixsTu-ULh0Q
