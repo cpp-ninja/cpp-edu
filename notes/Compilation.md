@@ -1,1 +1,0 @@
-[scheme]("images/scheme.png")
